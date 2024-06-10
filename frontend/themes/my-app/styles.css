@@ -1,0 +1,4 @@
+@import url('./main-layout.css');
+@import url('./views/inicio-view.css');
+@import url('./views/calculadora-tiempo-completo-view.css');
+@import url('./views/calculadora-por-dias-view.css');
